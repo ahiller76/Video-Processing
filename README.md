@@ -2,8 +2,8 @@
 
 **Requirements**
 
-*opencv
+•*opencv*
 
-*numpy
+•*numpy*
 
-*matplotlib
+•*matplotlib*
