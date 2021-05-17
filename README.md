@@ -2,7 +2,7 @@
 
 **Requirements**
 
-•*opencv*
+•*keras*
 
 •*numpy*
 
